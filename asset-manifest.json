@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/digest-africa-/static/css/main.07a6e487.css",
+    "main.js": "/digest-africa-/static/js/main.819a9138.js",
+    "index.html": "/digest-africa-/index.html",
+    "main.07a6e487.css.map": "/digest-africa-/static/css/main.07a6e487.css.map",
+    "main.819a9138.js.map": "/digest-africa-/static/js/main.819a9138.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07a6e487.css",
+    "static/js/main.819a9138.js"
+  ]
+}
